@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { motion } from 'framer-motion';
 import { Shopcontext } from '../Context/ShopContext';
-import banner from '../assets/Mensbann.png';
+import banner from '../assets/mensbann.png';
 import Item from '../Components/Item';
 
 const Mens = () => {
